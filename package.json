@@ -19,9 +19,10 @@
     "concurrently": "latest"
   },
   "dependencies": {
-    "@apollo/gateway": "0.13.2",
-    "apollo-server": "2.11.0",
-    "graphql": "14.6.0"
+    "@apollo/gateway": "^0.28.1",
+    "apollo-server": "^2.24.0",
+    "dotenv": "^8.2.0",
+    "graphql": "^14.6.0"
   },
   "keywords": [],
   "author": "",
